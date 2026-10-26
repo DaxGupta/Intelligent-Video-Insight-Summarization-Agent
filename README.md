@@ -86,12 +86,17 @@ streamlit run app.py
 2. Click **⚡ Analyse**.
 3. Wait for the pipeline to complete (you can view the live progress in the sidebar).
 4. Review your summary, action items, and chat with the transcript at the bottom of the page.
+<img width="1545" height="5058" alt="FireShot Capture 001 - AI Video Assistant - localhost" src="https://github.com/user-attachments/assets/7f1b0750-167c-41f0-bedf-2c88df721254" />
+
 
 ### Option 2: Command Line Interface
 Run the tool directly from your terminal:
 ```bash
 python main.py
 ```
+![Uploading page_3.png…]()
+
+
 You will be prompted to enter a URL or file path. The analysis results will be printed to your console, followed by an interactive chat loop.
 
 ## ⚠️ Notes on API Limits
