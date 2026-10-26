@@ -1,0 +1,5 @@
+test.py
+Add-on files/
+.venv/
+downloads/
+vector_db/
